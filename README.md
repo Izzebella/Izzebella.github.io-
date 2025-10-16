@@ -62,5 +62,5 @@
 <h3> Word Problem </h3>
         <p>4. Maria bought 3 apples for $2 each and one banana for $1. How much did she spend in total?</p> 
 <texttarea id="wordproblem" name="wordproblem" rows="4" cols="40"></texttarea><br><br>
- <input type="submit" value="Submit Test">
+ <buttontype="submit">Submit</button>
 
